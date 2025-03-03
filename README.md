@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Zloy01)
 
-<h1 align="center">📈 GitHub Stats</h1>
-
 <div align="center">
   <h1>📈 GitHub Stats</h1>
 
