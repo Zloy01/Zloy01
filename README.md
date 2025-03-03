@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>📈 GitHub Stats</h1>
-  <img src="[https://github.com/blackcater/blackcater/raw/main/images/Hi.gif](https://github-readme-stats.vercel.app/api/top-langs/?username=Zloy01&layout=compact&theme=vision-friendly-dark)" height="32"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zloy01&layout=compact&theme=vision-friendly-dark" height="32"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zloy01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
