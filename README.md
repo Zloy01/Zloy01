@@ -5,6 +5,7 @@
 <h1 align="center">📈 GitHub Stats</h1>
 
 <div align="center">
+  <h1>📈 GitHub Stats</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zloy01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
