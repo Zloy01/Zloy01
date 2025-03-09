@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>📈 GitHub Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zloy01&layout=compact&theme=vision-friendly-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zloy01&layout=compact&theme=ocean_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zloy01&theme=radical"/>
 </div>
 <!--
