@@ -1,11 +1,10 @@
-# Hi there 👋
-
-![](https://komarev.com/ghpvc/?username=Zloy01)
-
 <div align="center">
-  <h1>📈 GitHub Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zloy01&layout=compact&theme=ocean_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zloy01&theme=radical"/>
+  <h1>BEST I DO:</h1>
+  <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
+    <br>
+  <img src="https://skillicons.dev/icons?i=python,lua,js,html,css" />
+    <br>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,discord" />
 </div>
 <!--
 <div>
