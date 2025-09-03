@@ -4,7 +4,7 @@
     <br>
   <img src="https://skillicons.dev/icons?i=python,lua,js,html,css" />
     <br>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,discord,tg" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,discord" />
 </div>
 <!--
 <div>
